@@ -43,16 +43,6 @@ Para facilitar su uso, Seeed Studio ofrece **SenseCraft**, una plataforma que pe
 
 ---
 
-## 🚀 Cómo empezar
-
-1. Entrená tu modelo en SenseCraft o usá uno de los incluidos en este repo.
-2. Conectá el módulo Grove Vision AI V2 al XIAO ESP32-C3.
-3. Cargá el código correspondiente desde Arduino IDE.
-4. Abrí el monitor serie para ver los resultados de la detección.
-5. (Opcional) Configurá tu token de Pushbullet para recibir alertas.
-
----
-
 ## 🧠 Aplicaciones educativas
 
 - Sistemas de seguridad y alarmas
@@ -116,16 +106,6 @@ To simplify its use, Seeed Studio offers **SenseCraft**, a platform that lets yo
 - Account on [SenseCraft](https://sensecraft.seeed.cc/)  
 - Account on [Pushbullet](https://www.pushbullet.com/) (optional, for receiving notifications)  
 - Arduino IDE (configured for ESP32 boards)
-
----
-
-## 🚀 Getting started
-
-1. Train your model on SenseCraft or use one of the models included in this repo.  
-2. Connect the Grove Vision AI V2 module to the XIAO ESP32-C3.  
-3. Upload the corresponding code from the Arduino IDE.  
-4. Open the serial monitor to view detection results.  
-5. (Optional) Configure your Pushbullet token to receive alerts.
 
 ---
 
