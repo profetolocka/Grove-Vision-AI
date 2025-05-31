@@ -26,9 +26,9 @@ Para facilitar su uso, Seeed Studio ofrece **SenseCraft**, una plataforma que pe
 
 | Carpeta        | Descripción |
 |----------------|-------------|
-| `AlarmaFinal`  | Proyecto completo de alarma silenciosa: detecta personas y envía una notificación usando Pushbullet. |
+| `AlarmaFinal`  | Proyecto publicado de alarma silenciosa: detecta personas y envía una notificación usando Pushbullet. |
 | `Demo1`        | Primer prueba de concepto con detección de personas. Ideal para familiarizarse con SenseCraft y el módulo. |
-| `Person1` y `Person2` | Modelos entrenados para reconocimiento específico de personas. Se pueden usar para validar usuarios habilitados. |
+| `Person1` y `Person2` | Ejemplos de procesamiento de resultados del modelo de detección de personas  |
 | `Pushbullet`   | Código de prueba para enviar notificaciones desde el ESP32-C3 mediante la API de Pushbullet. |
 
 ---
